@@ -36,5 +36,4 @@ It is ideal for educational, demo, or beginner-level portfolio purposes.
 
 ---
 
-
-
+## 🧩 Project Structure
